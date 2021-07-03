@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Unorderd list decoration*/
+.social-media{    
+   list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    background-color:none;
+	float:right;
+}
+
+/*List content decoration*/
+.social-media li{
+	float:left;
+    margin-right:3px;
+	height:35px;
+	width:35px;
+	background-color:#333;
+}
+
+/*List animation time*/
+.social-media li a{
+	 -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+/*fb link hover*/
+.fb:hover{
+	background-color:#336699;
+}
+
+/*g+ link hover*/
+.g:hover{
+	background-color:#cc3333;
+}
+
+/*tw link hover*/
+.tw:hover{
+	background-color:#6699ff;
+}

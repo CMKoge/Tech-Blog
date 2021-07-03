@@ -1,0 +1,51 @@
+.artcl-mo{
+	background-color:#F5F5F5;
+	border-radius:5px;
+	padding: 5px 5px;
+	margin:10px;
+	font-size:20px;
+	color:#000;
+	vertical-align:middle;
+	text-align:center;
+}
+
+.sidebar{
+	background-color: #F5F5F5;
+	border-bottom:medium  #1E90FF solid;
+	border-radius:5px;
+	padding: 5px 5px;
+	margin:10px;
+}
+
+.topic-side{
+	font-size:20px;
+	vertical-align:middle;
+	text-align:center;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    padding: 5px 5px;
+}
+
+.topic-side:hover{
+	font-weight:bold;
+}
+
+.img-side{
+	vertical-align:middle;
+	text-align:center;
+	padding: 5px 5px;
+}
+
+.artcl-side{
+	vertical-align:middle;
+	text-align:justify;
+	padding: 5px 5px;
+	font-size: 16px;
+	color:#000;
+}
+
+.redmo-side{
+	vertical-align:middle;
+	text-align:right;
+	padding: 5px 5px;
+}

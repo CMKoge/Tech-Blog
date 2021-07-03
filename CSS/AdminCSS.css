@@ -1,0 +1,128 @@
+.logbox{
+	vertical-align:bottom;
+	text-align:center;
+	padding: 20px 20px;
+	border:thin  #1E90FF solid;
+	background-color:#F5F5F5;
+	border-radius:5px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.admin{
+	vertical-align:middle;
+	text-align:center;
+	font-size:25px;
+	padding: 10px 10px;
+}
+
+.word{
+	vertical-align:middle;
+	text-align:justify;
+	font-size:18px;
+	font-weight:bold;
+	padding: 10px 10px;
+}
+
+.logtxt{
+	text-align:justify;
+	vertical-align:middle;
+	width:100%;
+	padding: 3px 3px;
+	font-size:16px;
+}
+
+.btnsub{
+	vertical-align:middle;
+	text-align:center;
+	padding:10px 20px;
+	font-size:18px;
+	display: inline-block;
+	border: none;
+	background-color:#F5F5F5;
+	color:#1E90FF;
+	font-weight:bold;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    border-radius:5px;
+}
+
+.btnsub:hover,
+.btnsub:focus{
+	background-color:#1E90FF;
+	color:#F5F5F5;
+	cursor: pointer; 
+}
+
+/*Insert Content*/
+.inputbox{
+	vertical-align:middle;
+	text-align:justify;
+	padding: 20px 20px;
+	background-color:#F5F5F5;
+	border-radius:5px;
+	margin: 5px;
+}
+
+.txt{
+	text-align:justify;
+	vertical-align:middle;
+	width:99%;
+	padding: 3px 3px;
+	font-size:16px;
+	outline: none;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.txt:focus {
+     border: 3px solid #A9A9A9;
+}
+
+.btnfile{
+	vertical-align:middle;
+	text-align:center;
+	padding:10px 20px;
+	font-size:18px;
+	display: inline-block;
+	border: none;
+	background-color:#F5F5F5;
+	font-weight:bold;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.btnfile:hover,
+.btnfile:focus{
+	background-color:#A9A9A9;
+	color:#F5F5F5;
+	cursor: pointer;
+}
+
+textarea {
+    width:99%;
+	padding: 12px 20px;
+	font-size:16px;
+    height:500px;
+    outline:none;
+    resize: none;
+    text-align:justify;
+	vertical-align:middle;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+textarea:focus {
+     border: 3px solid #A9A9A9;
+}
+
+.wish{
+	color:#1E90FF;
+	font-size:18px;
+	font-style:italic;
+	font-weight:bold;
+	vertical-align:middle;
+	text-align:justify;
+	padding:5px 15px;
+	border-radius:5px;
+}

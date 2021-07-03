@@ -1,0 +1,84 @@
+.artcl-box{
+	border-bottom:medium  #1E90FF solid;
+	padding: 5px 5px;
+	margin:10px;
+	background-color:#DCDCDC;
+	border-radius:5px;
+}
+
+.topic{
+	font-size:20px;
+	padding: 5px 5px;
+}
+
+.img-wall{
+	vertical-align:middle;
+	padding:5px 5px;
+}
+
+.artcl{
+	vertical-align:top;
+	text-align:justify-all;
+	padding:5px 5px;
+	font-size:17px;
+	color:#000000; 
+}
+
+.redmo{
+	text-align:right;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.auth{
+	text-align: justify;
+	color:#000000;
+}
+
+.date{
+	text-align: right;
+	color:#000000;
+}
+
+/*Full Article*/
+.box{
+	padding: 5px 5px;
+	margin: 10px;
+	background-color:#F5F5F5;
+}
+
+.header{
+	font-size:30px;
+	padding:5px 5px;
+	color:#000;
+	font-weight:bold;
+}
+
+.img-arc{
+	padding: 10px 10px;
+	border-radius:10px;
+	text-align:center;
+	vertical-align:middle;
+}
+
+.artcl-full{
+	padding: 5px 5px;
+	text-align:justify-all;
+	vertical-align:middle;
+	font-size:18px;
+	color:#000000;
+}
+
+.auth-arc{
+	padding: 5px 5px;
+	text-align:left;
+	vertical-align:middle;
+	color:#000000;
+}
+
+.date-arc{
+	padding: 5px 5px;
+	text-align:right;
+	vertical-align:middle;
+	color:#000000;
+}

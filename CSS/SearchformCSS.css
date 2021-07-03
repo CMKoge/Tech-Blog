@@ -1,0 +1,27 @@
+.srhtxt{
+    text-align:justify;
+    vertical-align:middle;
+    padding: 3px 3px;
+    font-size:16px;
+    width: 70%;
+}
+
+.btnsrh{
+	padding:5px 10px;
+	font-size:18px;
+	display: inline-block;
+	border: none;
+	background-color:white;
+	color:#1E90FF;
+	font-weight:bold;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    border-radius:5px;
+}
+
+.btnsrh:hover,
+.btnsrh:focus{
+	background-color:#1E90FF;
+	color:white;
+	cursor: pointer; 
+}
